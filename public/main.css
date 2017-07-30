@@ -1,6 +1,6 @@
 li { cursor: pointer; }
 
 body { 
-	background-image: url("assets/images/cloudy-day.png");
+	background-color: black;
     background-attachment: fixed;
 } 
