@@ -4,3 +4,17 @@ body {
 	background-color: black;
     background-attachment: fixed;
 } 
+@font-face {
+    font-family: "American";
+    src: url('American Captain.ttf');
+}
+@font-face {
+    font-family: "Roman";
+    src: url('Roman SD.ttf');
+}
+@font-face {
+    font-family: "Chap";
+    src: url('Chapaza.ttf');
+}
+
+
